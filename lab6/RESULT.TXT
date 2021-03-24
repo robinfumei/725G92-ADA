@@ -1,0 +1,62 @@
+
+Kverulando           Kajsa                Basungången 3        KAPELLSKÄR            1  6  8
+
+Allegrettho          Albert               Fiolgatan 3          ALBY                  2  4  7
+
+Glissando            Gloria               Pianovägen 26 d      GLADHAMMAR            2  3  5  6  9
+
+Hysterico            Hilding              Gonggången 5         HYLTEBRUK             2  3  5  7
+
+Presto               Pelle                Ukuleleleden 13      PÅSKALLAVIK           3  6  7
+
+Staccato             Stina                Gambagatan 66 e      STUDSVIK              1  3  8
+
+Tempo                Kalle A              Basungången 15       TECKOMATORP           1  5  7  9
+
+Fortissimo           Folke                Cembalovägen 9       FORSMARK              3  5  7  9
+
+Galanto              Gunnel               Horngatan 423        GUSTAVSBERG           4  9
+
+Unisono              Uno                  Gigagatan 4          UMEÅ                  6  1  3
+
+Piano                Pia                  Sinkabrinken 12      PITEÅ                 2  5  6  9
+
+Grazioso             Grace                Ackordionsvängen  GAMMLEBY              1  2  3  4  6  7  8
+
+Ritardando           Rita                 Krumhornskroken 4    RIMFORSA              2  3  6  8
+
+Nontroppo            M A                  Fagottstigen 1       NORMLÖSA              2  3  4  6  9
+
+Majestoso            Maja                 Basungången 4        MARIESTAD             2  3  6  9
+
+Subito               Sune                 Fiddlastigen 5       SURAHAMMAR            4  7
+
+Xelerando            A                    Trumpetstigen 39     AXEVALLA              2  4  7  8
+
+Obligato             Osvald               Okarinavägen 6 c     OSBY                  1  2  5  7  9
+
+Jubilato             Johan                Pukallén 4           JULITA                2  6  7
+
+Effectivo            Erik                 Ukuleleleden 2       ESKILSTUNA            2  6  7
+
+Marcato              Maria                Celestavägen 89 h  MALÅ                  9
+
+Dolce                Dolly                Klarinettgatan 4     DOMNARVET             2  3  9
+
+Legato               Lasse                Celloavenyn 55 d     LERÅKER               8
+
+Molto                Maja                 Flöjtens väg 2 a     MOLKOM                3  5  7
+
+Portato              Putte                Harpapassagen 3      PUSTERVIKEN           5
+
+Parlando             Palle                Orgelgatan 44        PAJALA                2  3  4  8
+
+Virtuoso             Vilhelm              Sinkabrinken 5 b     VITTANGI              2  4  7  8
+
+Brio                 Britta Con           Stråket 1            BROMÖLLA              1  5  6  9
+
+Cresendo             Crister              Basungången 32 a     KRISTIANSTAD          5  7
+
+Dacapo               Dan                  Gitarrvägen 18       DANDERYD              2  7
+
+Interludio           Inga                 Oboevägen 3 c        INGELSTAD             1  2
